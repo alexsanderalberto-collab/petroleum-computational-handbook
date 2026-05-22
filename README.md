@@ -29,7 +29,7 @@ Construir um acervo computacional contínuo baseado em referências clássicas d
 - McCain
 - Thomas
 - Dake
-- Craft & Hawkins
+- Craft & Hawkins etc
 ## Tecnologias
 - Python
 - Jupyter Notebook
